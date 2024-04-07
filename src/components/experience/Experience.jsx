@@ -5,7 +5,7 @@ function Experience() {
     <>
       <div
         id="experience"
-        className=" max-w-screen-xl text-center py-8 font-extrabold text-4xl text-green-400"
+        className=" max-w-screen-xl text-center py-8 font-extrabold text-4xl text-emerald-400"
       >
         EXPERIENCE
       </div>
@@ -18,7 +18,7 @@ function Experience() {
             alt="dev_image"
           />
         </div>
-        <div className="lg:mt-0 lg:col-span-5">
+        <div className="mt-4 lg:mt-0 lg:col-span-5">
           <div className="py-8 shadow drop-shadow-lg rounded-lg">
             <div className="font-semibold text-center pb-4">
               Jan 2022 - Present

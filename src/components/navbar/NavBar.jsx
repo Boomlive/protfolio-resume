@@ -14,7 +14,7 @@ const NavBar = () => {
       <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto py-4">
         <Link
           href="/"
-          class="text-green-400  self-center text-4xl font-extrabold dark:text-white"
+          class="text-emerald-400  self-center text-4xl font-extrabold dark:text-white"
         >
           Panuwith
         </Link>

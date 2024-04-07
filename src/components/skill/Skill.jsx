@@ -6,7 +6,7 @@ function Skill() {
     <>
       <div
         id="skills"
-        className="max-w-screen-xl text-center py-8 font-extrabold text-4xl text-green-400"
+        className="max-w-screen-xl text-center py-8 font-extrabold text-4xl text-emerald-400"
       >
         SKILLS
       </div>

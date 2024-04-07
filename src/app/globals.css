@@ -31,3 +31,17 @@ body {
     text-wrap: balance;
   }
 }
+
+.bg-heropage{
+    background-image: url("../../public/bg01-unsplash.jpg");
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+
+.bg-contact{
+  background-image: url("../../public/bg04-unsplash.jpg");
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;
+}

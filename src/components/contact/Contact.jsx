@@ -6,7 +6,7 @@ function Contact() {
     <>
       <div
         id="contact"
-        className=" max-w-screen-xl text-center py-8 font-extrabold text-4xl text-green-400"
+        className=" max-w-screen-xl text-center py-8 font-extrabold text-4xl text-emerald-400"
       >
         CONTACT
       </div>
@@ -20,7 +20,12 @@ function Contact() {
             contact me. I am open to any work opportunities that align with my
             skills and interests.
           </p>
-          <form action="#" className="flex flex-col gap-4">
+          <form
+            action="mailto:boomlivecup@gmail.com"
+            method="post"
+            enctype="text/plain"
+            className="flex flex-col gap-4"
+          >
             <div>
               <label
                 for="email"
@@ -107,7 +112,10 @@ function Contact() {
               src="/location-svgrepo-com.svg"
               alt="location-icon"
             />
-            <div>43 Soi LatPhraoWangHin 6 Sub-area/District Lat Phrao</div>
+            <div>
+              43 Soi LatPhraoWangHin 6 Sub-area/District Lat Phrao Bangkok -
+              Thailand
+            </div>
           </div>
           <div className="flex justify-center items-center gap-7 mt-5">
             <a href="https://github.com/Boomlive">
