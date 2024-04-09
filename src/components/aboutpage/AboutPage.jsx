@@ -21,11 +21,11 @@ const AboutPage = () => {
         </div>
         <div className="flex justify-center order-1 lg:order-2 lg:col-span-6">
           <Image
-            src="/vicky-person.jpg"
+            src="/person_img.jpg"
             width={220}
             height={250}
             alt="Picture of the author"
-            className=" rounded-2xl "
+            className=" rounded-2xl"
           />
         </div>
       </div>
